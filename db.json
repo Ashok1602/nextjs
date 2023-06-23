@@ -1,0 +1,52 @@
+{    
+    "dashboard": {
+        "posts": 10,
+        "comments": 3,
+        "likes": 7
+    },
+    "products" : [
+        {
+            "id": 1,
+            "title": "product1",
+            "price": 2000,
+            "description": "prod one description"
+        },
+        {
+            "id": 2,
+            "title": "product2",
+            "price": 4000,
+            "description": "prod two description"
+        }, {
+            "id": 3,
+            "title": "product3",
+            "price": 1000,
+            "description": "prod three description"
+        }
+    ],
+    "news" : [
+        {
+            "id": 1,
+            "title": "news1",
+            "category": "sports"
+        },
+        {
+            "id": 2,
+            "title": "news2",
+            "category": "politics"
+        }, {
+            "id": 3,
+            "title": "weather news",
+            "category": "weather"
+        },
+        {
+            "id": 4,
+            "title": "news4",
+            "category": "politics"
+        },
+        {
+            "id": 5,
+            "title": "news5",
+            "category": "sports"
+        }
+    ]
+}
